@@ -22,7 +22,7 @@ const styles = {
     shadowColor: '#000',
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.2,
-    elevations: 2,
+    // elevations: 2,
     position: 'relative'
   },
   textStyle: {
